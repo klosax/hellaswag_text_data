@@ -12,7 +12,7 @@ See`extract_hellaswag.cpp`
 
 #### Datafile layout:
 
-`['??']` denotes a json field
+`['??']` denotes a field processed from the orginal json file and written to datafile as text.
 
 The file contain 6 lines per task:
 
