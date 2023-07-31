@@ -2,7 +2,7 @@
 
 #### Files
 
-`hellaswag_val_full.txt`- All 10042 examples extracted from the official HellaSwag validation dataset: [hellaswag_val.jsonl](https://github.com/rowanz/hellaswag/blob/master/data/hellaswag_val.jsonl)
+`hellaswag_val_full.txt`- All 10042 tasks extracted from the official HellaSwag validation dataset: [hellaswag_val.jsonl](https://github.com/rowanz/hellaswag/blob/master/data/hellaswag_val.jsonl)
 
 `extract_hellaswag.cpp` - Code to extract and preprocess the the original dataset.
 
